@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(void) {
+int main(void) 
+{
 	int num,rem,temp,rev=0;
 	scanf("%d",&num);
 	temp=num;
