@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+void main()
 {
    int x,y;
    scanf("%d %d",&x,&y);
@@ -10,5 +10,5 @@ int main()
     x=x^y;
    }
    printf("%d %d",x,y);
-    return 0;
+    
 }
